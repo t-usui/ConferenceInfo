@@ -117,6 +117,19 @@
 
 # その他
 
+## 2月
+### [NDSS 2015 : The 2015 Network and Distributed System Security Symposium](http://www.internetsociety.org/events/ndss-symposium-2015)
+
+* 査読：有
+* ランク：1
+* 投稿締切：08.01
+* 採録通知：10.22
+* ポスター投稿締切：01.07
+* ポスター採録通知：02.14
+* トピック：Anti-malware techniques: detection, analysis, and prevention, 
+* 会議日：02.08-11
+* 備考：IEEE S&P, ACM CCSに続くくらい
+
 ## 3月
 ### [ISSRMET 2015 : The International Conference on Information System Security, Robotics Modeling, and E-Commerce Transactions](http://sdiwc.net/conferences/issrmet2015/)
 * 査読：有
@@ -162,6 +175,15 @@
 * トピック：すべてMCC(Mobile Cloud Computing)がつくので、その分野以外だと厳しいか。
 * 会議日：6.02-05
 
+### [DIMVA 2015 : 12th Conference on Detection of Intrusions and Malware & Vulnerability Assessment](http://www.dimva2015.it/)
+* 査読：有
+* ランク：2
+* 投稿締切：02.08
+* 採録通知：03.27
+* トピック：Malware Detection(Automated analyses, Behavioral models, Prevention and containment, Infiltration, Acquisition and monitoring, Forensics and recovery, Underground economy)
+* 会議日：06.09-10
+* 備考：ACSACのちょっと下くらいだと思う。マルウェア系の人はこのあたりを狙えるとよいね
+
 ### [LSP 2014 : ICML 2014 Workshop on Learning, Security and Privacy](https://sites.google.com/site/learnsecprivacy2014/)
 * 査読：有
 * ランク：N/A
@@ -171,15 +193,18 @@
 * 会議日：6.25-26
 * 備考：ICMLのワークショップ。毎年開催されるものではないが、機械学習系の人はその年のICMLワークショップを確認しておくとよいかもしれない
 
+
 ## 7月
-### [DIMVA 2015 : 12th Conference on Detection of Intrusions and Malware & Vulnerability Assessment](http://www.dimva2015.it/)
+### [RAID 2014 : The 17th International Symposium on Research in Attacks, Intrusions and Defenses a.k.a. Recent Advances in Intrusion Detection](http://www.raid-symposium.org/)
 * 査読：有
-* ランク：2
+* ランク：1
 * 投稿締切：02.08
-* 採録通知：03.27
-* トピック：Malware Detection(Automated analyses, Behavioral models, Prevention and containment, Infiltration, Acquisition and monitoring, Forensics and recovery, Underground economy)
-* 会議日：06.09-10
-* 備考：ACSACのちょっと下くらいだと思う。マルウェア系の人はこのあたりを狙えるとよいね
+* 採録通知：06.01
+* ポスター投稿締切：06.01
+* ポスター採録通知：06.05
+* トピック：Malware and botnet analysis, detection, and mitigation, Machine learning for security, Binary analysis and reverse engineering, Digital forensics
+* 会議日：07.17-19
+* 備考：IEEE S&P, ACM CCSに続き、NDSSと並ぶくらい
 
 ### [SECRYPT 2015 : 12th International Conference on Security and Cryptography](http://secrypt.icete.org/)
 * 査読：有
@@ -209,6 +234,14 @@
 * 採録通知：08.18
 * 会議日：09.08-10
 * 備考：早い時期から投稿可能、採録通知は投稿から4週間以内
+
+### [ESORICS 2015 : 20th European Symposium on Research in Computer Security](http://esorics2015.sba-research.org/)
+* 査読：有
+* ランク：2
+* 投稿締切：04.04
+* 採録通知：06.15
+* 会議日：09.21-25
+* 備考：有名どころ
 
 # 国内会議
 
