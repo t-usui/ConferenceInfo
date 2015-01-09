@@ -162,7 +162,7 @@
 * トピック：すべてMCC(Mobile Cloud Computing)がつくので、その分野以外だと厳しいか。
 * 会議日：6.02-05
 
-### [LSP 2014 : ICML 2014 Workshop on Learning, Security and Privacy]
+### [LSP 2014 : ICML 2014 Workshop on Learning, Security and Privacy](https://sites.google.com/site/learnsecprivacy2014/)
 * 査読：有
 * ランク：N/A
 * 投稿締切：04.14
@@ -172,7 +172,7 @@
 * 備考：ICMLのワークショップ。毎年開催されるものではないが、機械学習系の人はその年のICMLワークショップを確認しておくとよいかもしれない
 
 ## 7月
-### [DIMVA 2015 : 12th Conference on Detection of Intrusions and Malware & Vulnerability Assessment]
+### [DIMVA 2015 : 12th Conference on Detection of Intrusions and Malware & Vulnerability Assessment](http://www.dimva2015.it/)
 * 査読：有
 * ランク：2
 * 投稿締切：02.08
